@@ -15,7 +15,7 @@ import java.util.function.Supplier;
  *
  * @ClassName:JDK8_features
  * @Description:JDK8新特性
- * @author diandian.zhang
+ * @author diandian.zhang   https://www.cnblogs.com/dennyzhangdd/p/6722445.html
  * @date 2017年4月17日上午9:13:24
  */
 public class JDK8_features {
